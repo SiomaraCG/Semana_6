@@ -58,9 +58,9 @@ if __name__ == "__main__":
     
     # Añadir elementos a la cola
     print("\nEncolando elementos...")
-    c.encolar(10)
-    c.encolar(20)
-    c.encolar(30)
+    c.encolar(50)
+    c.encolar(80)
+    c.encolar(40)
     
     # Mostrar el estado de la cola después de encolar elementos
     print("Estado de la cola después de encolar 10, 20 y 30:")
