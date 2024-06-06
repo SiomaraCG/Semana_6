@@ -84,7 +84,7 @@ if __name__ == "__main__":
     pila = PilaConListaEnlazada()
     # Se imprime el mensaje
     print("Apilando elementos en la pila...")
-    # Se apila los elementos
+    # Se apila los elementos 10,20,30,40,50
     pila.apilar(10)
     pila.apilar(20)
     pila.apilar(30)
